@@ -73,16 +73,3 @@ streamlit run salary_classification.ipynb
 * Instances: 48,842
 * Features: 13
 * Target: Income >50K or ≤50K
-
----
-
-## 👩‍💻 Author
-
-**Ashlia K Bijumon**
-B.Tech CSE | Machine Learning & Full Stack Enthusiast
-
-[LinkedIn](https://linkedin.com/in/ashliakbijumon) • [GitHub](https://github.com/<your-username>)
-
----
-
-Would you like me to make it include a short “Model Performance” section (1–2 lines like “Accuracy ~85%”)? It adds a nice professional touch.
