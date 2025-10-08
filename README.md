@@ -75,4 +75,4 @@ streamlit run salary_classification.ipynb
 * Target: Income >50K or ≤50K
 
 
-<img width="1920" height="1080" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/853601f6-53b2-4185-afa7-e56b72dcd787" />
+<img width="1919" height="939" alt="Screenshot 2025-10-08 205641" src="https://github.com/user-attachments/assets/f90214c9-254a-420a-8256-9249f4e28a0b" />
