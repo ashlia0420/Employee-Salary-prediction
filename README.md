@@ -73,3 +73,6 @@ streamlit run salary_classification.ipynb
 * Instances: 48,842
 * Features: 13
 * Target: Income >50K or ≤50K
+
+
+<img width="1920" height="1080" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/853601f6-53b2-4185-afa7-e56b72dcd787" />
